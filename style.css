@@ -1,3 +1,19 @@
+.container {
+    width: 600px;
+}
+
+h1 {
+    font-size: 25px;
+}
+
+h1 .icon:first-child {
+    margin-right: 0.5em;
+}
+
+h1 .icon:last-child {
+    margin-left: 0.5em;
+}
+
 /* Create square icons, white logo on colored background */
 
 #social-bar .icon {
@@ -10,12 +26,11 @@
 }
 
 #social-bar a {
-    margin-left: 5px;
+    margin-right: 5px;
     padding: 5px; /* Increase hit rectangle for touch devices */
 }
 
 #social-bar a:first-child {
-    margin-left: 0;
     padding-left: 0;
 }
 
@@ -48,6 +63,7 @@
 
 #social-bar a:hover span {
     text-decoration: underline;
+    color: #333333; /* Match icon highlight color */
 }
 
 /* Animate mouse hover */
@@ -56,6 +72,6 @@
 }
 
 #social-bar a:hover .icon {
-    background: black;
+    background: #333333;
     transition: background 0.5s;
 }

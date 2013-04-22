@@ -1,7 +1,9 @@
 Introduction
 -------------
 
-See blog post for details.
+See blog post for details [TODO]
+
+`See example <http://miohtama.github.io/FontAwesome-and-Bootstrap-social-icons-example/>`_
 
 Author
 --------------
