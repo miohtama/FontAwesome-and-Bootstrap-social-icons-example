@@ -1,7 +1,7 @@
 Introduction
 -------------
 
-See blog post for details [TODO]
+`See the blog post for details <http://opensourcehacker.com/2013/04/22/charming-social-media-icons-with-font-awesome-and-css3/>`_.
 
 `See example <http://miohtama.github.io/FontAwesome-and-Bootstrap-social-icons-example/>`_
 
