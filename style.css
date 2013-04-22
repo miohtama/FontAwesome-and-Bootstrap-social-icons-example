@@ -9,14 +9,17 @@
     text-align: center;
 }
 
-/* Set icon color related to the service */
 #social-bar a {
     margin-left: 5px;
+    padding: 5px; /* Increase hit rectangle for touch devices */
 }
 
 #social-bar a:first-child {
     margin-left: 0;
+    padding-left: 0;
 }
+
+/* Set icon color related to the service */
 
 #social-bar a span {
     margin-left: 5px;
@@ -56,5 +59,3 @@
     background: black;
     transition: background 0.5s;
 }
-
-
